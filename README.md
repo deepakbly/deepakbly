@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I'm a dynamic Software Engineer with extensive experience in .NET development and IT engineering. I have a proven track record of delivering high-quality software solutions, improving process efficiency, and implementing innovative technologies in fast-paced environments.
 
-- 🔭 I’m currently working as an IT Engineer at Invertis University, Bareilly.
+- 🔭 I’m currently working as a Software Engineer at Infotech Zone, Bareilly.
 - 🌱 I’m currently exploring advanced IoT solutions and enhancing my .NET skills.
 - 👯 I’m looking to collaborate on .NET projects and innovative tech solutions.
 - 💬 Ask me about .NET development, IoT, and IT infrastructure management.
