@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/deepakbly/deepakbly/blob/main/GItBanner.jpg)
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
